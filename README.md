@@ -24,3 +24,14 @@ NI : Entero(3,322*log(n)+1)
 aI (amplitus intervalo) : rango /NI
 dato (continuo o discreto)
 delta : si(datos = "discreto"; delta = 1 ; delta : 0,......) -----------------------> Error : debe trabajar con al menos 2 decimales más que la version original
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Cosas que necesito para un grafico de caja
+
+1.-Medidas - Tendencia
+2.- Dispersion
+3.-Forma           ----------> A,c, Histograma
+4.-Percentiles  -->p25 -----
+                -->p50      ----- Boxplot, Identificer Outlices  
+                -->p75 -----
